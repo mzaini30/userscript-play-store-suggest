@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name        Play Store Suggest
-// @version     0.0.1
+// @version     0.0.2
 // @date        2022-02-07
 // @author      Zen
 // @description Tools yang akan memudahkan untuk mencatat suggest Play Store
 // @homepage    https://www.mainkode.my.id/
 // @downloadURL https://github.com/mzaini30/userscript-play-store-suggest/raw/master/app.user.js
-// @include     https://play.google.com/store/*
+// @include     https://play.google.com/store*
 // @run-at      document-end
 // @grant       GM_listValues
 // @grant       GM_setValue
