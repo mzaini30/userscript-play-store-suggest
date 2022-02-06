@@ -1,0 +1,26 @@
+<div class="kotak">
+	<div class="judul">Keyword</div>
+	<textarea name="" readonly id="" cols="30" rows="10"></textarea>
+</div>
+
+<style>
+	.kotak {
+	  position: fixed;
+	  z-index: 9999;
+	  left: 20px;
+	  bottom: 20px;
+	  font-size: 12px;
+	  border: 2px solid orange;
+	}
+	.kotak .judul {
+	  text-align: center;
+	  font-family: sans-serif;
+	  padding: 2px;
+	  background: yellow;
+	}
+	.kotak textarea {
+	  width: 140px;
+	  height: 100px;
+	  border: 1px solid rgba(0, 0, 0, 0.2);
+	}
+</style>
